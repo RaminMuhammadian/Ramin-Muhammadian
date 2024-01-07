@@ -30,7 +30,7 @@
 </div>
 
 ## 🧑🏽‍💻About me
-* ❄️ Currently working at strenghening my skills as a Full Stack Developer
+* ❄️ Currently working at strenghening my skills as a Software Developer
 * 💻 Studying through JetBrains Academy 
 * ⚡️ I keep my mind fresh by:
 	* Exercising regularly
